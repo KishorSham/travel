@@ -11,6 +11,11 @@ body{
   filter: alpha(opacity=60); /* For IE8 and earlier */
 }
 
+.top{
+padding-top: 60px;
+}
+
+
 h3{
 	color: #ccc;
 }
