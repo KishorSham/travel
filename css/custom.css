@@ -45,3 +45,77 @@ h3{
 .dropdown:hover {
     background-color: #111;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-top: 130px;
+    margin-bottom: auto;
+}
+
+.s1 {
+    color: #fff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    margin-bottom: auto;
+}
+
+.s1>h1{
+  font-size: 100px;
+}
+
+.s1>p{
+  font-size: 30px;
+}
+
+.nextbtn{
+ margin-top: 200px;
+float: right;
+margin-right: 30px;
+}
+
+a{
+  text-decoration: none;
+}
+
+.btn{
+  width: 10%;
+}
+
+.s2 {
+    color: #ffa655;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    margin-bottom: auto;
+}
+
+.s2>h1{
+  font-size: 100px;
+}
+
+.s2>p{
+  font-size: 30px;
+}
+
+.s3 {
+    color: #ff1043;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    margin-bottom: auto;
+}
+
+.s3>h1{
+  font-size: 100px;
+}
+
+.s3>p{
+  font-size: 30px;
+}
